@@ -215,8 +215,6 @@ See the full license details [here](./LICENSE).
 
 ## ✨ Connect with Me  
 
-- 💼 **GitHub:** [@madboy482](https://github.com/madboy482/)  
-- 💼 **LinkedIn:** [Nalin](https://linkedin.com/in/nalin-vijayvargiya/)  
-- 💼 **Portfolio:** [madboy482.me](https://madboy482-portfolio.vercel.app/)  
+- 💼 **GitHub:** [@bhanuprakash0907](https://github.com/bhanuprakash0907)  
 
 🌟 *If you like this project, don't forget to star the repo!* ⭐  
